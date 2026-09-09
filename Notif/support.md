@@ -4,6 +4,8 @@ title: Notif Support
 
 # Notif Support
 
+<img src="images/icon.png" alt="Notif app icon" width="96">
+
 Notif is a minimal recurring-reminder app for iOS. Set a name, a time, and how often — Notif keeps reminding you on schedule, with no checkmark or completion step required.
 
 ## Screenshots

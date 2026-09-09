@@ -1,8 +1,10 @@
 ---
-title: Notif
+title: Apps
 ---
 
-# Notif
+# Apps
 
-- [Support](support.html)
-- [Privacy Policy](privacy.html)
+## Notif
+
+- [Support](Notif/support.html)
+- [Privacy Policy](Notif/privacy.html)
