@@ -13,3 +13,8 @@ title: Apps
 
 - [Support](FrameTimer/support.html)
 - [Privacy Policy](FrameTimer/privacy.html)
+
+## NDI Monitor
+
+- [Support](NDIMonitor/support.html)
+- [Privacy Policy](NDIMonitor/privacy.html)
