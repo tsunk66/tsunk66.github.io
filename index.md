@@ -18,3 +18,8 @@ title: Apps
 
 - [Support](NDIMonitor/support.html)
 - [Privacy Policy](NDIMonitor/privacy.html)
+
+## NDI CameraIO
+
+- [Support](NDICameraIO/support.html)
+- [Privacy Policy](NDICameraIO/privacy.html)
